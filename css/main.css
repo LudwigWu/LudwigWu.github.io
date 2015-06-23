@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 1.8;
   color: #555;
@@ -477,38 +477,6 @@ td {
   opacity: 0;
 }
 @font-face {
-  font-family: 'Lato';
-  src: url("../fonts/lato/Lato-Regular.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/lato/Lato-Regular.eot?#iefix") format('embedded-opentype'), url("../fonts/lato/Lato-Regular.ttf") format('truetype');
-  font-style: normal;
-  font-weight: normal;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url("../fonts/lato/Lato-Bold.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/lato/Lato-Bold.eot?#iefix") format('embedded-opentype'), url("../fonts/lato/Lato-Bold.ttf") format('truetype');
-  font-style: normal;
-  font-weight: bold;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url("../fonts/lato/Lato-Italic.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/lato/Lato-Italic.eot?#iefix") format('embedded-opentype'), url("../fonts/lato/Lato-Italic.ttf") format('truetype');
-  font-style: italic;
-  font-weight: normal;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
-  font-family: 'Lato';
-  src: url("../fonts/lato/Lato-BoldItalic.eot"); /* IE9 Compat Modes */
-  src: url("../fonts/lato/Lato-BoldItalic.eot?#iefix") format('embedded-opentype'), url("../fonts/lato/Lato-BoldItalic.ttf") format('truetype');
-  font-style: italic;
-  font-weight: bold;
-  text-rendering: optimizeLegibility;
-}
-@font-face {
   font-family: 'fifty-shades';
   src: url("../fonts/icon-fifty-shades/icomoon.eot?-9394c0");
   src: url("../fonts/icon-fifty-shades/icomoon.eot?#iefix-9394c0") format('embedded-opentype'), url("../fonts/icon-fifty-shades/icomoon.woff?-9394c0") format('woff'), url("../fonts/icon-fifty-shades/icomoon.ttf?-9394c0") format('truetype'), url("../fonts/icon-fifty-shades/icomoon.svg?-9394c0#fifty-shades") format('svg');
@@ -626,7 +594,7 @@ td {
 }
 .post pre,
 .post code {
-  font-family: "PT Mono", Consolas, Monaco, Menlo, monospace;
+  font-family: Consolas, Monaco, Menlo, monospace;
 }
 .post code {
   background: #eee;
@@ -685,7 +653,7 @@ td {
 }
 .post .gist .gist-file {
   border: none;
-  font-family: "PT Mono", Consolas, Monaco, Menlo, monospace;
+  font-family: Consolas, Monaco, Menlo, monospace;
   margin: 0;
 }
 .post .gist .gist-file .gist-data {
@@ -708,7 +676,7 @@ td {
 .post .gist .gist-file .gist-meta {
   background: #1d1f21;
   color: #969896;
-  font: 13px Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font: 13px "Helvetica Neue", Helvetica, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   text-shadow: 0 0;
   padding: 0;
   margin-top: 1em;
@@ -845,7 +813,7 @@ body {
   color: #fff;
   background: #222;
   border-bottom: none;
-  font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 }
 .logo {
   display: inline-block;
@@ -1083,7 +1051,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #20f2ff;
+  background: #5eff96;
 }
 .sidebar-nav {
   margin: 0;
@@ -1496,7 +1464,7 @@ body {
   margin-left: 60px;
   font-size: 16px;
   font-weight: normal;
-  font-family: Lato, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, "Microsoft Jhenghei", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   line-height: inherit;
 }
 .posts-collapse .post-title::after {
